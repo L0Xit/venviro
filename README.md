@@ -66,7 +66,7 @@ enviro/
 ├── test/                 # Testdateien mit JSON-Beispieldaten
 ├── main.py               # Startpunkt der Anwendung
 ├── requirements.txt      # Abhängigkeitsliste
-└── README.md             # Diese Datei
+└── README.md
 ```
 
 ## Anforderungen
